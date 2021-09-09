@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @multidimensionalinteractive
 - 👀 I’m interested in data science / programming / blockchain
-- 🌱 I’m currently learning python / django / rust
+- 👅 I’m currently learning python / django / rust
 - 💞️ I’m looking to collaborate on blockchain tech 
 - 📫 How to reach me matt@aerodynamicdata.com
 
