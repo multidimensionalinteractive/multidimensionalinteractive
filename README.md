@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @multidimensionalinteractive
-- 👀 I’m interested in data science / programming / blockchain
+- 👋 Hi, I’m Matt Boh
+- 👀 I’m interested in data science / devops / programming / blockchain
 - 👅 I’m currently working in python / django / rust / solidity
 - 💞️ I’m looking to collaborate on blockchain tech 
 - 📫 How to reach me matt@aerodynamicdata.com
