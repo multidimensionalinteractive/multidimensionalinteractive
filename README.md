@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Matt
-- 👀 I’m a UX Engineer interested in AI/ML / data science / devops / programming / blockchain
+- 👀 I’m a Developer interested in AI/ML / data science / devops / programming / blockchain
 - 👅 I’m currently working in js / go / python / django / rust / solidity
 - 💞️ I’m looking to collaborate on software engineering
 - 📫 How to reach me matthaydon@gmail.com
