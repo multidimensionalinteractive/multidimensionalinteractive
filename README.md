@@ -20,7 +20,7 @@ I balance **entrepreneurial ventures** (MultiAi, Accrued Markets, Mdi.io) with h
 ---
 
 ## 📌 Current Projects
-- **MultiAi** → AI/ML + Cybersecurity
+- **MultiAi** → AI/ML, cybersecurity, devops, blockchain, and full-stack engineering.
 - **Accrued Markets** → Real estate marketing & IDX-integrated websites  
 - **Cybersecurity Portfolio** → Building practical labs & tools (SOC, malware analysis, red/blue team projects)  
 - **AI Agents** → Framework for automated website building & digital marketing  
