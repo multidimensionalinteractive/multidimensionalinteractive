@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I’m a **CTO, developer, and cybersecurity professional** with a passion for building scalable systems and secure, future-proof solutions. My work spans across **AI/ML, cybersecurity, devops, blockchain, and full-stack engineering**.  
 
-I balance **entrepreneurial ventures** (MultiAi, Accrued Markets, Mdi.io) with hands-on technical projects, from real estate tech platforms to agentic AI frameworks.  
+I balance **entrepreneurial ventures** (MultiAi, Mdi.io) with hands-on technical projects, from real estate tech platforms to agentic AI frameworks.  
 
 ---
 
