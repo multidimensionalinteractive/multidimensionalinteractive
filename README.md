@@ -1,49 +1,37 @@
-# 👋 Hey, I’m Matt
+# Hi, I'm Matt Haydon
 
-## 🚀 About Me
-I’m a **CTO, developer, and cybersecurity professional** with a passion for building scalable systems and secure, future-proof solutions. My work spans across **AI/ML, cybersecurity, devops, blockchain, and full-stack engineering**.  
+San Diego freelance developer and fractional CTO. I run [MDI Labs](https://mdi.io): production Webflow, WordPress, supervised AI automation, and WordPress security, including malware cleanup and incident response.
 
-I balance **entrepreneurial ventures** (MultiAi, Mdi.io) with hands-on technical projects, from real estate tech platforms to agentic AI frameworks.  
+I also do fractional technical and security leadership for early-stage teams, and I have done that work for Accrued Markets and MultAI. CISO, Confidential Employer (Stealth Startup).
 
----
+## What I do
 
-## 🛠️ Tech Stack
-- **Languages:** JavaScript / Go / Python / Rust / C# / Solidity  
-- **Frameworks & Tools:** Django / Node.js / Docker / Vercel / WordPress (Elementor / iHomefinder)  
-- **Focus Areas:**  
-  - 🧠 AI/ML + Agentic Systems  
-  - 🔒 Cybersecurity (Offensive & Defensive, Compliance, DevSecOps)  
-  - ⚙️ DevOps & Automation  
-  - 🌐 Web Development & IDX Real Estate Integration  
-  - ⛓️ Blockchain & Smart Contracts  
+- Webflow engineering: Designer, Interactions, CMS, and production builds
+- WordPress design, care, and hacked-site cleanup
+- Supervised AI automation for intake, follow-up, and internal workflows
+- Fractional CTO support: architecture, delivery, and security hardening
 
----
+## Selected work
 
-## 📌 Current Projects
-- **MultiAi** → AI/ML, cybersecurity, devops, blockchain, and full-stack engineering.
-- **Accrued Markets** → Real estate marketing & IDX-integrated websites  
-- **Cybersecurity Portfolio** → Building practical labs & tools (SOC, malware analysis, red/blue team projects)  
-- **AI Agents** → Framework for automated website building & digital marketing  
-- **Tea Punk Co** → E-commerce brand exploring white-label tea & teaware  
+- [MDI Labs](https://mdi.io) - Webflow, WordPress, AI automation, and cybersecurity studio
+- [Accrued Markets](https://accrued-markets.com/) - production site I built
+- [MultAI Technologies Inc.](https://github.com/MultAI-Technologies-Inc) - CTO work, including public QRiNG-related repos when they are meant to be public
 
----
+## Certifications and study
 
-## 🤝 Collaboration
-I’m open to collaborating on:
-- AI/ML & agentic automation projects  
-- Cybersecurity engineering & research  
-- Real estate tech platforms  
-- E-commerce automation  
+- CompTIA PenTest+ ce
+- CompTIA CySA+ ce
+- ISC2 Certified in Cybersecurity (CC)
+- CISSP (in progress)
+- Masters-level coursework in Cybersecurity and Information Assurance, Western Governors University (coursework, not a conferred degree)
 
----
+## Stack I use often
 
-## 📫 Contact
-- **Email:** [hi@mdi.io](mailto:hi@mdi.io)  
-- **LinkedIn:** [linkedin.com/in/matt-haydon](https://linkedin.com/in/matt-haydon)  
-- **GitHub Projects:** Explore repos below 👇  
+Webflow, WordPress, JavaScript / TypeScript, Python, Go, Rust, Node, PHP, AWS, Docker, n8n / Make / Zapier, and Cloudflare.
 
+## Contact
 
-<!---
-multidimensionalinteractive/multidimensionalinteractive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: [hi@mdi.io](mailto:hi@mdi.io)
+- Web: [https://mdi.io](https://mdi.io)
+- LinkedIn: [https://www.linkedin.com/in/matthaydon/](https://www.linkedin.com/in/matthaydon/)
+- X: [https://x.com/matt_boh](https://x.com/matt_boh)
